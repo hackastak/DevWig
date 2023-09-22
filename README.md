@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @DevWig
-- 👀 I’m interested in just about anything software related.
-- 🌱 I’m currently learning OWASP, security protocols, and the role of the red-team
-- 💞️ I’m looking to collaborate on anything related to security.
-     Most of my experience is with web related projects in JavaScript, but I'd love to learn by doing with security.
+- 👀 I'm a mechanical engineer turned biomedical engineer turned software engineer, and I can finally say, I'm here to stay.
+- 🌱 I’m enjoy learning anything and everything I can get my hands on. Currently, that consists of learning Astro as well as getting familiar with Appwrite and Vercel.
+- 💞️ I’m always open to collaborate on just about anything. The only qualification is that it just has to spark an interest with me.
+     Most of my experience is with web related projects in JavaScript, but I'd love to learn by doing with security as well.
 - 📫 How to reach me: email me at ahwig93@gmail.com
 
-<!---
-DevWig/DevWig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
